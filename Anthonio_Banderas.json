@@ -1,10 +1,10 @@
 {
 "Rep": "200404",
 "Coins": "3055.011720",
-"Legend": "true",
-"DepStatus": "true",
+"Legend": "false",
+"DepStatus": "false",
 "Armor": "false",
-"RangX": "true",
+"RangX": "false",
 "Mining": "0.000008",
 "DepMoney": "267"
 }
