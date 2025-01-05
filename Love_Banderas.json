@@ -1,11 +1,12 @@
 {
-"Rep": "513",
-"Coins": "0.002992",
+"Rep": "0",
+"Coins": "0.000000",
 "Legend": "false",
 "DepStatus": "false",
 "Armor": "false",
 "RangX": "false",
 "Mining": "0.000008",
 "DepMoney": "0",
-"Color": ""
+"Color": "",
+"Donate": "0"
 }
