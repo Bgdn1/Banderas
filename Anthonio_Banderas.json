@@ -1,6 +1,6 @@
 {
 "Rep": "4213",
-"Coins": "5.547840",
+"Coins": "5.547848",
 "Legend": "false",
 "DepStatus": "false",
 "Armor": "false",
@@ -8,5 +8,6 @@
 "Mining": "0.000008",
 "DepMoney": "1020",
 "Color": "",
-"Donate": "5020000"
+"Donate": "5020000",
+"Tag": ""
 }
