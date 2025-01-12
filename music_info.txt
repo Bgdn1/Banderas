@@ -2,9 +2,9 @@ Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/gimn.mp3" Name: "�
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/Banderas.mp3" Name: "Гімн Banderas"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/Klavdia%20Petrivna%20-%20%D0%97%D0%BD%D0%B0%D0%B9%D0%B4%D0%B8%20%D0%9C%D0%B5%D0%BD%D0%B5%20Kava%20Remix.mp3" Name: "Klavdia Petrivna  Знайди Мене (Kava Remix)"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/KLAVDIA%20PETRIVNA%20-%20%D0%AF%20%D0%A2%D0%9E%D0%91%D0%86%20%D0%91%D0%A0%D0%95%D0%A5%D0%90%D0%9B%D0%90%20AMPHIPHIL%20REMIX.mp3" Name: "KLAVDIA PETRIVNA  Я ТОБІ БРЕХАЛА (AMPHIPHIL REMIX)"
-Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SadSvit%20-%20%D0%9A%D0%B0%D1%81%D0%B5%D1%82%D0%B0%20(musiua.com).mp3" Name: "SadSvit  Касета"
-Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SadSvit%20-%20%D0%9A%D0%B2%D1%82%D0%B8%20(musiua.com).mp3" Name: "SadSvit  Квіти"
-Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SadSvit%20-%20%D0%9D%D0%B5%D0%B1%D0%BE%20(musiua.com).mp3" Name: "SadSvit  Небо"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SadSvit%20-%20%D0%9A%D0%B0%D1%81%D0%B5%D1%82%D0%B0%20.mp3" Name: "SadSvit  Касета"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SadSvit%20-%20%D0%9A%D0%B2%D1%82%D0%B8%20.mp3" Name: "SadSvit  Квіти"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SadSvit%20-%20%D0%9D%D0%B5%D0%B1%D0%BE%20.mp3" Name: "SadSvit  Небо"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SadSvit%20-%20%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%20(musiua.com).mp3" Name: "SadSvit  Персонажі"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/Zelenooka%20-%20%D0%9E%D0%B9,%20%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BB%D0%B0%20%D0%9C%D0%B5%D0%BD%D1%96%20%D0%9C%D0%B0%D0%BC%D0%BE.mp3" Name: "Zelenooka 
  Ой, говорила мені Мамо"
