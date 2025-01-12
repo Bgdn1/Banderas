@@ -1,4 +1,4 @@
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/gimn.mp3" Name: "Гімн України"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/Banderas.mp3" Name: "Гімн Banderas"
-Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/Klavdia%2520Petrivna%2520-%2520%25D0%2597%25D0%25BD%25D0%25B0%25D0%25B9%25D0%25B4%25D0%25B8%2520%25D0%259C%25D0%25B5%25D0%25BD%25D0%25B5%2520(Kava%2520Remix).mp3" Name: "Klavdia Petrivna - Знайди Мене (Kava Remix)"
-Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/klavdia-petrivna-ya-tobi-brehala-amphiphil-remix.mp3" Name: "KLAVDIA PETRIVNA - Я ТОБІ БРЕХАЛА (AMPHIPHIL REMIX)"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/Klavdia%2520Petrivna%2520-%2520%25D0%2597%25D0%25BD%25D0%25B0%25D0%25B9%25D0%25B4%25D0%25B8%2520%25D0%259C%25D0%25B5%25D0%25BD%25D0%25B5%2520(Kava%2520Remix).mp3" Name: "Klavdia Petrivna - Знайди Мене Kava Remix"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/klavdia-petrivna-ya-tobi-brehala-amphiphil-remix.mp3" Name: "KLAVDIA PETRIVNA - Я ТОБІ БРЕХАЛА AMPHIPHIL REMIX"
