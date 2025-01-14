@@ -1,6 +1,6 @@
 {
 "Rep": "215",
-"Coins": "5.043952",
+"Coins": "5.043960",
 "Legend": "false",
 "DepStatus": "false",
 "Armor": "false",
@@ -9,5 +9,6 @@
 "DepMoney": "2191",
 "Color": "00FFAD",
 "Donate": "55980000",
-"Tag": "РОЗРАБ"
+"Tag": "РОЗРАБ",
+"MyRank": "0"
 }
