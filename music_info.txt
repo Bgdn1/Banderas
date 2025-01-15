@@ -17,7 +17,6 @@ Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/%D0%A1%D0%BA%D1%80
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/Kozak%20Siromaha%20-%20%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B8.mp3" Name: "Kozak Siromaha  Дороги"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/Kozak%20Siromaha%20-%20%D0%97%D0%B0%D1%81%D0%B2%D1%96%D1%82%20%D0%92%D1%81%D1%82%D0%B0%D0%BB%D0%B8%20%D0%9A%D0%BE%D0%B7%D0%B0%D1%87%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8.mp3" Name: "Kozak Siromaha  Засвіт Встали Козаченьки"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/Veronika%20-%20%D0%9A%D1%80%D0%B0%D1%89%D0%B0%20%D0%92%D0%B5%D1%80%D1%81%D1%96%D1%8F.mp3" Name: "Veronika  Краща Версія"
-
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/KAZKASVATA.mp3" Name: "KAZKA  SVATA"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/PatsykiMarichka.mp3" Name: "Patsyki  Marichka"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/OkeanElsiMovchati.mp3" Name: "OkeanElsi  Movchati"
