@@ -23,3 +23,4 @@ Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/KAZKASVATA.mp3" Na
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/PatsykiMarichka.mp3" Name: "Patsyki  Marichka"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/OkeanElsiMovchati.mp3" Name: "OkeanElsi  Movchati"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/NazvaChuziyuYa.mp3" Name: "Nazva  ChuziyuYa"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/JerryHeilPodolyanochka.mp3" Name: "JerryHeil  Podolyanochka"
