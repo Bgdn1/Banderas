@@ -24,3 +24,4 @@ Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/NazvaChuziyuYa.mp3
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/JerryHeilPodolyanochka.mp3" Name: "JerryHeil  Podolyanochka"
 
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/ScryabinToMoyeMore.mp3" Name: "Scryabin  ToMoyeMore"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/ScryabinKinecFilmu.mp3" Name: "Scryabin  KinecFilmu"
