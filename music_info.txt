@@ -27,3 +27,4 @@ Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/ScryabinToMoyeMore
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/ScryabinKinecFilmu.mp3" Name: "Scryabin  KinecFilmu"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SinkaboysDopalka.mp3" Name: "Sinkaboys  Dopalka"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SichevskiyDvaDubki.mp3" Name: "Sichevskiy  DvaDubki"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/MirzoyanPotsiluiMene.mp3" Name: "Mirzoyan  PotsiluiMene"
