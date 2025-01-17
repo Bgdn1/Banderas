@@ -29,3 +29,4 @@ Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SinkaboysDopalka.m
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SichevskiyDvaDubki.mp3" Name: "Sichevskiy  DvaDubki"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/MirzoyanPotsiluiMene.mp3" Name: "Mirzoyan  PotsiluiMene"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/KhrystynaSoloviiTrimay.mp3" Name: "KhrystynaSolovii  Trimay"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/DynoroInMyMind.mp3" Name: "Dynoro  InMyMind"
