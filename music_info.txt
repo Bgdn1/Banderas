@@ -25,3 +25,4 @@ Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/JerryHeilPodolyano
 
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/ScryabinToMoyeMore.mp3" Name: "Scryabin  ToMoyeMore"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/ScryabinKinecFilmu.mp3" Name: "Scryabin  KinecFilmu"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SinkaboysDopalka.mp3" Name: "Sinkaboys  Dopalka"
