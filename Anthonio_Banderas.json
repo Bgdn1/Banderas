@@ -1,6 +1,6 @@
 {
 "Rep": "1",
-"Coins": "0.000008",
+"Coins": "0.000160",
 "Legend": "false",
 "DepStatus": "false",
 "Armor": "false",
@@ -10,5 +10,5 @@
 "Color": "",
 "Donate": "0",
 "Tag": "",
-"MyRank": "0"
+"MyRank": "10"
 }
