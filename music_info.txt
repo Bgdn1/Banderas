@@ -30,3 +30,4 @@ Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/SichevskiyDvaDubki
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/MirzoyanPotsiluiMene.mp3" Name: "Mirzoyan  PotsiluiMene"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/KhrystynaSoloviiTrimay.mp3" Name: "KhrystynaSolovii  Trimay"
 Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/DynoroInMyMind.mp3" Name: "Dynoro  InMyMind"
+Path: "https://github.com/Bgdn1/Banderas/raw/refs/heads/Music/AviatorPovertajsja.mp3" Name: "Aviator  Povertajsja"
