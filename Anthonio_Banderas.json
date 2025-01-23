@@ -1,14 +1,15 @@
 {
 "Rep": "639",
-"Coins": "93.629276",
-"Legend": "false",
-"DepStatus": "false",
-"Armor": "false",
-"RangX": "false",
+"Coins": "93.629321",
+"Legend": "true",
+"DepStatus": "true",
+"Armor": "true",
+"RangX": "true",
 "Mining": "0.000020",
 "DepMoney": "306",
 "Color": "",
 "Donate": "6110000",
 "Tag": "",
-"MyRank": "10"
+"MyRank": "10","ActionNumber": "0",
+"ActionEarn": "0"
 }
