@@ -1,6 +1,6 @@
 {
 "Rep": "143002",
-"Coins": "215.443353",
+"Coins": "215.443376",
 "Legend": "false",
 "DepStatus": "false",
 "Armor": "false",
@@ -10,5 +10,7 @@
 "Color": "BFA7FF",
 "Donate": "7310222",
 "Tag": "АНДРІЙ",
-"MyRank": "10"
+"MyRank": "10",
+"ActionNumber": "0",
+"ActionEarn": "0"
 }
